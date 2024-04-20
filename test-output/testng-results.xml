@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-20T17:30:00 IST" name="Suite" finished-at="2024-03-20T17:30:32 IST" duration-ms="31790">
+  <suite started-at="2024-04-20T17:42:46 IST" name="Suite" finished-at="2024-04-20T17:43:28 IST" duration-ms="41880">
     <groups>
     </groups>
-    <test started-at="2024-03-20T17:30:00 IST" name="Test" finished-at="2024-03-20T17:30:32 IST" duration-ms="31790">
+    <test started-at="2024-04-20T17:42:46 IST" name="Test" finished-at="2024-04-20T17:43:28 IST" duration-ms="41880">
       <class name="Automation.WebServerWorkingVerfication.WebChecking">
-        <test-method is-config="true" signature="configurBrowser()[pri:0, instance:Automation.WebServerWorkingVerfication.WebChecking@6c4906d3]" started-at="2024-03-20T17:30:00 IST" name="configurBrowser" finished-at="2024-03-20T17:30:01 IST" duration-ms="527" status="PASS">
+        <test-method is-config="true" signature="configurBrowser()[pri:0, instance:Automation.WebServerWorkingVerfication.WebChecking@31c7528f]" started-at="2024-04-20T17:42:46 IST" name="configurBrowser" finished-at="2024-04-20T17:42:47 IST" duration-ms="1523" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configurBrowser -->
-        <test-method signature="webCheckingTest()[pri:0, instance:Automation.WebServerWorkingVerfication.WebChecking@6c4906d3]" started-at="2024-03-20T17:30:01 IST" name="webCheckingTest" finished-at="2024-03-20T17:30:32 IST" duration-ms="31154" status="PASS">
+        <test-method signature="webCheckingTest()[pri:0, instance:Automation.WebServerWorkingVerfication.WebChecking@31c7528f]" started-at="2024-04-20T17:42:47 IST" name="webCheckingTest" finished-at="2024-04-20T17:43:28 IST" duration-ms="40279" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- webCheckingTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Automation.WebServerWorkingVerfication.WebChecking@6c4906d3]" started-at="2024-03-20T17:30:32 IST" name="tearDown" finished-at="2024-03-20T17:30:32 IST" duration-ms="77" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Automation.WebServerWorkingVerfication.WebChecking@31c7528f]" started-at="2024-04-20T17:43:28 IST" name="tearDown" finished-at="2024-04-20T17:43:28 IST" duration-ms="49" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
