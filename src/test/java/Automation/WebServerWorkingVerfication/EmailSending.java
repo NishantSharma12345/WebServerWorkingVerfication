@@ -89,7 +89,7 @@ public class EmailSending extends BaseClass
 
 			// Send message
 			Transport.send(message);
-			System.out.println("Mail has sent successfully");
+			System.out.println("Mail has sent successfully.");
 
 		} 
 		catch (MessagingException mex) 
